@@ -1,0 +1,263 @@
+0000.001 (0) Opened log file at time: Tue, 05 Apr 2022 10:20:54 +0000 on http://general-wp
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.2 PHP: 7.4.26 (apache2handler, Windows NT LAPTOP-FC1VTUNH 10.0 build 19043 (Windows 10) AMD64) MySQL: 8.0.27 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.51 (Win64) PHP/7.4.26 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 10.1M | 2M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 622772.8 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.013 (0) Semaphore (fd, gwp_options) being initialised
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.019 (0) Set semaphore last lock (fd) time to 2022-04-05 10:20:54
+0000.020 (0) Semaphore lock (fd) complete
+0000.023 (0) Backup run: resumption=0, nonce=3c285f37712c, file_nonce=3c285f37712c begun at=1649154054 (0s ago), job type=backup
+0000.025 (0) Scheduling a resumption (1) after 300 seconds (1649154354) in case this run gets aborted
+0000.056 (0) Checking if we have a zip executable available
+0000.059 (0) Creation of backups of directories: beginning
+0000.066 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.856 (0) Total entities for the zip file: 942 directories, 4398 files (0 skipped as non-modified), 80.2 MB
+0002.866 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.133 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 100 files added (on-disk size: 161.7 KB)
+0003.198 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 200 files added (on-disk size: 161.7 KB)
+0003.257 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 300 files added (on-disk size: 161.7 KB)
+0003.418 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 400 files added (on-disk size: 161.7 KB)
+0003.501 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 500 files added (on-disk size: 161.7 KB)
+0003.588 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 600 files added (on-disk size: 161.7 KB)
+0003.677 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 700 files added (on-disk size: 161.7 KB)
+0003.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.9 MB, 4398 files batched, 786 (787) added so far); re-opening (prior size: 161.7 KB)
+0011.185 (0) A useful amount of data was added after this amount of zip processing: 8.8 s (normalised: 8.1 s, rate: 3148.2 KB/s)
+0011.218 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 800 files added (on-disk size: 10043.5 KB)
+0011.291 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 900 files added (on-disk size: 10043.5 KB)
+0011.370 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1000 files added (on-disk size: 10043.5 KB)
+0011.447 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1100 files added (on-disk size: 10043.5 KB)
+0011.522 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1200 files added (on-disk size: 10043.5 KB)
+0011.597 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1300 files added (on-disk size: 10043.5 KB)
+0011.675 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1400 files added (on-disk size: 10043.5 KB)
+0011.755 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1500 files added (on-disk size: 10043.5 KB)
+0011.820 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1600 files added (on-disk size: 10043.5 KB)
+0011.890 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1700 files added (on-disk size: 10043.5 KB)
+0011.946 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.1 MB, 4398 files batched, 1001 (1788) added so far); re-opening (prior size: 10043.5 KB)
+0015.345 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1800 files added (on-disk size: 16628.7 KB)
+0015.410 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 1900 files added (on-disk size: 16628.7 KB)
+0015.471 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2000 files added (on-disk size: 16628.7 KB)
+0015.536 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2100 files added (on-disk size: 16628.7 KB)
+0015.596 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2200 files added (on-disk size: 16628.7 KB)
+0015.665 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2300 files added (on-disk size: 16628.7 KB)
+0015.732 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2400 files added (on-disk size: 16628.7 KB)
+0015.791 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2500 files added (on-disk size: 16628.7 KB)
+0015.859 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2600 files added (on-disk size: 16628.7 KB)
+0015.929 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2700 files added (on-disk size: 16628.7 KB)
+0015.978 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.1 MB, 4398 files batched, 1001 (2789) added so far); re-opening (prior size: 16628.7 KB)
+0018.615 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2800 files added (on-disk size: 22067.2 KB)
+0018.701 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 2900 files added (on-disk size: 22067.2 KB)
+0018.794 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3000 files added (on-disk size: 22067.2 KB)
+0018.881 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3100 files added (on-disk size: 22067.2 KB)
+0018.969 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3200 files added (on-disk size: 22067.2 KB)
+0019.057 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3300 files added (on-disk size: 22067.2 KB)
+0019.141 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3400 files added (on-disk size: 22067.2 KB)
+0019.225 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3500 files added (on-disk size: 22067.2 KB)
+0019.310 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3600 files added (on-disk size: 22067.2 KB)
+0019.400 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3700 files added (on-disk size: 22067.2 KB)
+0019.469 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8 MB, 4398 files batched, 1001 (3790) added so far); re-opening (prior size: 22067.2 KB)
+0020.983 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3800 files added (on-disk size: 24614 KB)
+0021.064 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 3900 files added (on-disk size: 24614 KB)
+0021.143 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 4000 files added (on-disk size: 24614 KB)
+0021.221 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 4100 files added (on-disk size: 24614 KB)
+0021.295 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 4200 files added (on-disk size: 24614 KB)
+0021.367 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.tmp: 4300 files added (on-disk size: 24614 KB)
+0027.350 (0) Creating zip file manifest (C:\wamp64\www\general-wp\wordpress/wp-content/updraft/backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.list-temp.tmp)
+0027.408 (0) Successfully created zip file manifest (size: 360584)
+0027.822 (0) Created plugins zip (0) - 27477.5 KB in 27.8 s (990.1 KB/s) (sha1: 4fa80074e834e4f0d032f662f0225090034a4589, sha256: 1ee3ea4bd48ace938c090a1904a4f345f6a7a1ba03bbc863c1fb4593e06b8946)
+0027.827 (0) Beginning creation of dump of themes (split every: 400 MB)
+0028.276 (0) Total entities for the zip file: 134 directories, 1000 files (0 skipped as non-modified), 25.6 MB
+0028.345 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0028.420 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0028.486 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0028.553 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0028.619 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0028.696 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0028.762 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0028.823 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0028.895 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0028.905 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.3 MB, 1000 files batched, 912 (912) added so far); re-opening (prior size: 0 KB)
+0043.374 (0) A useful amount of data was added after this amount of zip processing: 16 s (normalised: 15.8 s, rate: 1621.7 KB/s)
+0043.472 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.tmp: 1000 files added (on-disk size: 13343.8 KB)
+0044.070 (0) Creating zip file manifest (C:\wamp64\www\general-wp\wordpress/wp-content/updraft/backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.list-temp.tmp)
+0044.086 (0) Successfully created zip file manifest (size: 68245)
+0044.421 (0) Created themes zip (0) - 13582.6 KB in 16.6 s (818.8 KB/s) (sha1: 7b573d233d568486fb60798d4f25ccac941bba52, sha256: c73ae6fff1f35bd23736f2403ad090c44f4c7979ad170974ecd806282a82f490)
+0044.431 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0044.434 (0) Looking for candidates to backup in: C:\wamp64\www\general-wp\wordpress/wp-content/uploads
+0044.437 (0) finding files: 2020: adding to list (1)
+0044.438 (0) finding files: 2022: adding to list (2)
+0044.440 (0) finding files: elementor: adding to list (3)
+0044.441 (0) finding files: phlox: adding to list (4)
+0044.443 (0) finding files: smile_fonts: adding to list (5)
+0044.444 (0) finding files: wpcf7_uploads: adding to list (6)
+0044.449 (0) finding files: wpo-plugins-tables-list.json: adding to list (7)
+0044.451 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0044.639 (0) Total entities for the zip file: 11 directories, 331 files (0 skipped as non-modified), 14.3 MB
+0044.727 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0044.819 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0044.902 (0) Zip: backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0054.235 (0) Creating zip file manifest (C:\wamp64\www\general-wp\wordpress/wp-content/updraft/backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip.list-temp.tmp)
+0054.244 (0) Successfully created zip file manifest (size: 16535)
+0054.451 (0) Created uploads zip (0) - 13925.1 KB in 10 s (1393.3 KB/s) (sha1: d112b39ac599e5c8ca23a6251a624d454e5e521e, sha256: 7b3dbd21d967682433e73d3c9a2b67ab83d26f92d3f55be740167be72f45af1a)
+0054.457 (0) Beginning backup of other directories found in the content directory (index: 0)
+0054.459 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0054.461 (0) Looking for candidates to backup in: C:\wamp64\www\general-wp\wordpress/wp-content
+0054.463 (0) finding files: index.php: adding to list (1)
+0054.464 (0) finding files: plugins: skipping: this is the plugins directory
+0054.465 (0) finding files: themes: skipping: this is the themes directory
+0054.466 (0) finding files: updraft: skipping: this is the updraft directory
+0054.467 (0) finding files: upgrade: skipping: excluded by options
+0054.467 (0) finding files: uploads: skipping: this is the uploads directory
+0054.474 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0054.499 (0) Creating zip file manifest (C:\wamp64\www\general-wp\wordpress/wp-content/updraft/backup_2022-04-05-1020_generalWP_3c285f37712c-others.zip.list-temp.tmp)
+0054.502 (0) Successfully created zip file manifest (size: 43)
+0054.509 (0) Created others zip (0) - 0.1 KB in 0 s (3.8 KB/s) (sha1: ea573ea64b7cefa851b978a6baf283e29caf7e29, sha256: 93e1f1b7a1d31bc091be9e8197e1e48dd5cbc843e50b6af00020c6859aa1c97c)
+0054.517 (0) Saving backup status to database (elements: 8)
+0054.519 (0) Beginning creation of database dump (WordPress DB)
+0054.520 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0054.547 (0) Table gwp_options: Total expected rows (via COUNT): 353
+0054.548 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.682 (0) Table gwp_options: Rows added in this batch (next record: 1357): 349 (uncompressed bytes in this segment=2162431) in 0.14 seconds
+0054.695 (0) Table gwp_options: finishing file(s) (2, 413 KB)
+0054.704 (0) Table gwp_users: Total expected rows (via COUNT): 1
+0054.705 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.708 (0) Table gwp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1401) in 0.01 seconds
+0054.717 (0) Table gwp_users: finishing file(s) (2, 0.6 KB)
+0054.726 (0) Table gwp_usermeta: Total expected rows (via COUNT): 21
+0054.727 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.732 (0) Table gwp_usermeta: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1906) in 0.01 seconds
+0054.741 (0) Table gwp_usermeta: finishing file(s) (2, 1 KB)
+0054.751 (0) Table gwp_commentmeta: Total expected rows (via COUNT): 0
+0054.753 (0) Table gwp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=683) in 0.01 seconds
+0054.766 (0) Table gwp_commentmeta: finishing file(s) (2, 0.4 KB)
+0054.776 (0) Table gwp_comments: Total expected rows (via COUNT): 1
+0054.778 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.781 (0) Table gwp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2135) in 0.01 seconds
+0054.790 (0) Table gwp_comments: finishing file(s) (2, 0.7 KB)
+0054.799 (0) Table gwp_links: Total expected rows (via COUNT): 0
+0054.802 (0) Table gwp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1304) in 0.01 seconds
+0054.813 (0) Table gwp_links: finishing file(s) (2, 0.5 KB)
+0054.884 (0) Table gwp_postmeta: Total expected rows (approximate): 4376
+0055.905 (0) Table gwp_postmeta: Rows added in this batch (next record: 6753): 4362 (uncompressed bytes in this segment=24217978) in 1.09 seconds
+0055.916 (0) Table gwp_postmeta: finishing file(s) (2, 2653.1 KB)
+0056.668 (0) Table gwp_posts: Total expected rows (via COUNT): 405
+0056.669 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.905 (0) Table gwp_posts: Rows added in this batch (next record: 495): 405 (uncompressed bytes in this segment=1064801) in 0.25 seconds
+0056.923 (0) Table gwp_posts: finishing file(s) (2, 67.3 KB)
+0056.938 (0) Table gwp_term_relationships: Total expected rows (approximate): 129
+0056.949 (0) Table gwp_term_relationships: Rows added in this batch (next record: 100000): 129 (uncompressed bytes in this segment=2510) in 0.01 seconds
+0056.960 (0) Table gwp_term_relationships: finishing file(s) (2, 0.7 KB)
+0056.976 (0) Table gwp_term_taxonomy: Total expected rows (via COUNT): 35
+0056.981 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.991 (0) Table gwp_term_taxonomy: Rows added in this batch (next record: 37): 35 (uncompressed bytes in this segment=2139) in 0.02 seconds
+0057.008 (0) Table gwp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0057.022 (0) Table gwp_termmeta: Total expected rows (via COUNT): 0
+0057.026 (0) Table gwp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=656) in 0.01 seconds
+0057.050 (0) Table gwp_termmeta: finishing file(s) (2, 0.4 KB)
+0057.062 (0) Table gwp_terms: Total expected rows (via COUNT): 35
+0057.066 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0057.073 (0) Table gwp_terms: Rows added in this batch (next record: 37): 35 (uncompressed bytes in this segment=1909) in 0.02 seconds
+0057.123 (0) Table gwp_terms: finishing file(s) (2, 0.8 KB)
+0057.139 (0) Table gwp_e_events: Total expected rows (via COUNT): 9
+0057.141 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0057.146 (0) Table gwp_e_events: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2279) in 0.01 seconds
+0057.161 (0) Table gwp_e_events: finishing file(s) (2, 0.6 KB)
+0057.309 (0) Table gwp_tm_taskmeta: Total expected rows (via COUNT): 0
+0057.316 (0) Table gwp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=656) in 0.01 seconds
+0057.330 (0) Table gwp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0057.376 (0) Table gwp_tm_tasks: Total expected rows (via COUNT): 0
+0057.382 (0) Table gwp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.01 seconds
+0057.393 (0) Table gwp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0057.404 (0) Table gwp_ulike: Total expected rows (via COUNT): 0
+0057.405 (0) Table gwp_ulike: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=748) in 0.00 seconds
+0057.418 (0) Table gwp_ulike: finishing file(s) (2, 0.4 KB)
+0057.432 (0) Table gwp_ulike_activities: Total expected rows (via COUNT): 0
+0057.435 (0) Table gwp_ulike_activities: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=826) in 0.01 seconds
+0057.446 (0) Table gwp_ulike_activities: finishing file(s) (2, 0.4 KB)
+0057.457 (0) Table gwp_ulike_comments: Total expected rows (via COUNT): 0
+0057.459 (0) Table gwp_ulike_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.01 seconds
+0057.472 (0) Table gwp_ulike_comments: finishing file(s) (2, 0.4 KB)
+0057.485 (0) Table gwp_ulike_forums: Total expected rows (via COUNT): 0
+0057.487 (0) Table gwp_ulike_forums: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=793) in 0.01 seconds
+0057.499 (0) Table gwp_ulike_forums: finishing file(s) (2, 0.4 KB)
+0057.511 (0) Table gwp_ulike_meta: Total expected rows (via COUNT): 33
+0057.515 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0057.521 (0) Table gwp_ulike_meta: Rows added in this batch (next record: 33): 33 (uncompressed bytes in this segment=2403) in 0.02 seconds
+0057.534 (0) Table gwp_ulike_meta: finishing file(s) (2, 0.7 KB)
+0057.539 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_options.table.tmpr1358.gz (1/20/fopen): adding to final database dump
+0057.568 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_options.table.gz (2/20/fopen): adding to final database dump
+0057.570 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_users.table.tmpr2.gz (3/20/fopen): adding to final database dump
+0057.571 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_users.table.gz (4/20/fopen): adding to final database dump
+0057.573 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_usermeta.table.tmpr22.gz (5/20/fopen): adding to final database dump
+0057.575 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_usermeta.table.gz (6/20/fopen): adding to final database dump
+0057.576 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_commentmeta.table.tmpr0.gz (7/20/fopen): adding to final database dump
+0057.579 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_commentmeta.table.gz (8/20/fopen): adding to final database dump
+0057.581 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_comments.table.tmpr2.gz (9/20/fopen): adding to final database dump
+0057.583 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_comments.table.gz (10/20/fopen): adding to final database dump
+0057.584 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_links.table.tmpr0.gz (11/20/fopen): adding to final database dump
+0057.586 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_links.table.gz (12/20/fopen): adding to final database dump
+0057.587 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_postmeta.table.tmpr6754.gz (13/20/fopen): adding to final database dump
+0057.721 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_postmeta.table.gz (14/20/fopen): adding to final database dump
+0057.723 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_posts.table.tmpr496.gz (15/20/fopen): adding to final database dump
+0057.726 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_posts.table.gz (16/20/fopen): adding to final database dump
+0057.729 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_term_relationships.table.tmpr100001.gz (17/20/fopen): adding to final database dump
+0057.730 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_term_relationships.table.gz (18/20/fopen): adding to final database dump
+0057.732 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_term_taxonomy.table.tmpr38.gz (19/20/fopen): adding to final database dump
+0057.733 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_term_taxonomy.table.gz (20/20/fopen): adding to final database dump
+0057.734 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_termmeta.table.tmpr0.gz (21/20/fopen): adding to final database dump
+0057.736 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_termmeta.table.gz (22/20/fopen): adding to final database dump
+0057.738 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_terms.table.tmpr38.gz (23/20/fopen): adding to final database dump
+0057.740 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_terms.table.gz (24/20/fopen): adding to final database dump
+0057.742 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_e_events.table.tmpr10.gz (25/20/fopen): adding to final database dump
+0057.745 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_e_events.table.gz (26/20/fopen): adding to final database dump
+0057.746 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_tm_taskmeta.table.tmpr0.gz (27/20/fopen): adding to final database dump
+0057.748 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_tm_taskmeta.table.gz (28/20/fopen): adding to final database dump
+0057.750 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_tm_tasks.table.tmpr0.gz (29/20/fopen): adding to final database dump
+0057.752 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_tm_tasks.table.gz (30/20/fopen): adding to final database dump
+0057.754 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike.table.tmpr0.gz (31/20/fopen): adding to final database dump
+0057.755 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike.table.gz (32/20/fopen): adding to final database dump
+0057.756 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_activities.table.tmpr0.gz (33/20/fopen): adding to final database dump
+0057.758 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_activities.table.gz (34/20/fopen): adding to final database dump
+0057.760 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_comments.table.tmpr0.gz (35/20/fopen): adding to final database dump
+0057.762 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_comments.table.gz (36/20/fopen): adding to final database dump
+0057.763 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_forums.table.tmpr0.gz (37/20/fopen): adding to final database dump
+0057.765 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_forums.table.gz (38/20/fopen): adding to final database dump
+0057.766 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_meta.table.tmpr34.gz (39/20/fopen): adding to final database dump
+0057.767 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db-table-gwp_ulike_meta.table.gz (40/20/fopen): adding to final database dump
+0057.774 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db.gz: finished writing out complete database file (3143 KB)
+0057.836 (0) Total database tables backed up: 20 (backup_2022-04-05-1020_generalWP_3c285f37712c-db.gz, size: 3218558, sha1: 469883b8fa328f4e10bd1ce4393f50aa6fedacea, sha256: bfaa20ef3814229ca3949bebc6c88a9fcd37c5e29fb83d29891de1b69dee0ae6)
+0057.843 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0057.846 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0057.847 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0057.848 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0057.850 (0) backup_2022-04-05-1020_generalWP_3c285f37712c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0057.851 (0) Saving backup history. Total backup size: 56.8 MB
+0057.856 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0057.862 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0057.863 (0) No remote despatch: user chose no remote backup service
+0057.865 (0) Recording as successfully uploaded: backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip
+0057.869 (0) Deleting zip manifest (backup_2022-04-05-1020_generalWP_3c285f37712c-plugins.zip.list.tmp)
+0057.872 (0) Recording as successfully uploaded: backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip
+0057.883 (0) Deleting zip manifest (backup_2022-04-05-1020_generalWP_3c285f37712c-themes.zip.list.tmp)
+0057.890 (0) Recording as successfully uploaded: backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip
+0057.897 (0) Deleting zip manifest (backup_2022-04-05-1020_generalWP_3c285f37712c-uploads.zip.list.tmp)
+0057.900 (0) Recording as successfully uploaded: backup_2022-04-05-1020_generalWP_3c285f37712c-others.zip
+0057.907 (0) Deleting zip manifest (backup_2022-04-05-1020_generalWP_3c285f37712c-others.zip.list.tmp)
+0057.916 (0) Recording as successfully uploaded: backup_2022-04-05-1020_generalWP_3c285f37712c-db.gz
+0057.924 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0057.928 (0) Number of backup sets in history: 1; groups (db): 1
+0057.930 (0) Examining (for databases) backup set with group_id=0, nonce=3c285f37712c, datestamp=1649154054 (Apr 05 2022 10:20:54)
+0057.932 (0) This backup set is the backup set just made, so will not be deleted.
+0057.932 (0) Number of backup sets in history: 1; groups (files): 1
+0057.933 (0) Examining (for files) backup set with nonce=3c285f37712c, datestamp=1649154054 (Apr 05 2022 10:20:54)
+0057.933 (0) This backup set is the backup set just made, so will not be deleted.
+0057.935 (0) This backup set is the backup set just made, so will not be deleted.
+0057.936 (0) This backup set is the backup set just made, so will not be deleted.
+0057.937 (0) This backup set is the backup set just made, so will not be deleted.
+0057.937 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0057.940 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0057.951 (0) Resume backup (3c285f37712c, 0): finish run
+0057.955 (0) Decremented the semaphore (fd) by 1
+0057.958 (0) Semaphore (fd) unlocked
+0057.959 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0057.972 (0) No email will/can be sent - the user has not configured an email address.
+0057.974 (0) The backup apparently succeeded and is now complete
